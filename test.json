@@ -1,1 +1,138 @@
-
+[
+    {
+    "event_type": "sale",
+    "order_hash": "",
+    "chain": "ethereum",
+    "protocol_address": "",
+    "closing_date": 1735686923,
+    "nft": {
+      "identifier": "1219",
+      "collection": "kaito-genesis",
+      "contract": "0x9830b32f7210f0857a859c2a86387e4d1bb760b8",
+      "token_standard": "erc721",
+      "name": "Kaito Genesis",
+      "description": "Kaito Genesis is the genesis NFT collection created by Kaito AI.",
+      "image_url": "https://ipfs.io/ipfs/bafybeighrivve6b64yokxj6txt26nqjjxmqpmaqvx45h6srxdjpyf4icom",
+      "display_image_url": "https://i.seadn.io/s/raw/files/8a0d280b8d33fef2cf20b9d1080a1adc.png?w=500&auto=format",
+      "display_animation_url": null,
+      "metadata_url": "https://ipfs.io/ipfs/bafkreidbdxf5ixjrugswqpwpadje66nz575jzfmv57s6gsge6j7ru44zry",
+      "opensea_url": "https://opensea.io/assets/ethereum/0x9830b32f7210f0857a859c2a86387e4d1bb760b8/1219",
+      "updated_at": "2024-12-31T23:15:26.255730",
+      "is_disabled": false,
+      "is_nsfw": false
+    },
+    "quantity": 1,
+    "seller": "0xf591db9dccd5d3aaf8508da2cffedd5ef5bb920f",
+    "buyer": "0x5f08129c841b3ea5d9952d0529e7a68557e0b0f1",
+    "payment": {
+      "quantity": "3480000000000000000",
+      "token_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "decimals": 18,
+      "symbol": "WETH"
+    },
+    "transaction": "0xfd42045b98a0f7576757c9dffccd106501b066d8baaedb41cef2a1abeefb8673",
+    "event_timestamp": 1735686923
+  },
+    {
+    "event_type": "sale",
+    "order_hash": "0x81cec07baf7623eac386a75fa62de67ce6f901be31bd1a389a7ebd7c004733c0",
+    "chain": "ethereum",
+    "protocol_address": "0x0000000000000068f116a894984e2db1123eb395",
+    "closing_date": 1735643771,
+    "nft": {
+      "identifier": "1118",
+      "collection": "kaito-genesis",
+      "contract": "0x9830b32f7210f0857a859c2a86387e4d1bb760b8",
+      "token_standard": "erc721",
+      "name": "Kaito Genesis",
+      "description": "Kaito Genesis is the genesis NFT collection created by Kaito AI.",
+      "image_url": "https://ipfs.io/ipfs/bafybeighrivve6b64yokxj6txt26nqjjxmqpmaqvx45h6srxdjpyf4icom",
+      "display_image_url": "https://i.seadn.io/s/raw/files/8a0d280b8d33fef2cf20b9d1080a1adc.png?w=500&auto=format",
+      "display_animation_url": null,
+      "metadata_url": "https://ipfs.io/ipfs/bafkreidbdxf5ixjrugswqpwpadje66nz575jzfmv57s6gsge6j7ru44zry",
+      "opensea_url": "https://opensea.io/assets/ethereum/0x9830b32f7210f0857a859c2a86387e4d1bb760b8/1118",
+      "updated_at": "2024-12-31T11:16:15.720328",
+      "is_disabled": false,
+      "is_nsfw": false
+    },
+    "quantity": 1,
+    "seller": "0xc9277b5670d761afa79a2e6426761724f49d16d6",
+    "buyer": "0xa04ad034df4f3e99ebe6360621239ec2501c7d35",
+    "payment": {
+      "quantity": "3649999000000000000",
+      "token_address": "0x0000000000000000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "ETH"
+    },
+    "transaction": "0xf1ddc3671efc2cd552965315b643683b430f1ed10d983a395236d6bb3580672e",
+    "event_timestamp": 1735643771
+  },
+  {
+    "event_type": "sale",
+    "order_hash": "0x9fafd2ad4bfe2fafd0ab632d9331e5731211062587cf869ba7299a962ee7cd42",
+    "chain": "ethereum",
+    "protocol_address": "0x0000000000000068f116a894984e2db1123eb395",
+    "closing_date": 1735640339,
+    "nft": {
+      "identifier": "1271",
+      "collection": "kaito-genesis",
+      "contract": "0x9830b32f7210f0857a859c2a86387e4d1bb760b8",
+      "token_standard": "erc721",
+      "name": "Kaito Genesis",
+      "description": "Kaito Genesis is the genesis NFT collection created by Kaito AI.",
+      "image_url": "https://ipfs.io/ipfs/bafybeighrivve6b64yokxj6txt26nqjjxmqpmaqvx45h6srxdjpyf4icom",
+      "display_image_url": "https://i.seadn.io/s/raw/files/8a0d280b8d33fef2cf20b9d1080a1adc.png?w=500&auto=format",
+      "display_animation_url": null,
+      "metadata_url": "https://ipfs.io/ipfs/bafkreidbdxf5ixjrugswqpwpadje66nz575jzfmv57s6gsge6j7ru44zry",
+      "opensea_url": "https://opensea.io/assets/ethereum/0x9830b32f7210f0857a859c2a86387e4d1bb760b8/1271",
+      "updated_at": "2024-12-31T10:19:01.936435",
+      "is_disabled": false,
+      "is_nsfw": false
+    },
+    "quantity": 1,
+    "seller": "0x8cfd96755d68d43811a83b325e35384a8f137148",
+    "buyer": "0x8341b0d5d2d2672bf092c7c6a8142530e7ed4c73",
+    "payment": {
+      "quantity": "3699000000000000000",
+      "token_address": "0x0000000000000000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "ETH"
+    },
+    "transaction": "0xeade870acd005cd1b85bd969bfa4b18729f7dd5a6ba6d7ae1e26b886734fe5f2",
+    "event_timestamp": 1735640339
+  },
+  {
+    "event_type": "sale",
+    "order_hash": "0x61e1f0c05fbf3f4d4109bea4c3f0e55510330912bfd218401d7055a2c3bb7aa1",
+    "chain": "ethereum",
+    "protocol_address": "0x0000000000000068f116a894984e2db1123eb395",
+    "closing_date": 1735637951,
+    "nft": {
+      "identifier": "1168",
+      "collection": "kaito-genesis",
+      "contract": "0x9830b32f7210f0857a859c2a86387e4d1bb760b8",
+      "token_standard": "erc721",
+      "name": "Kaito Genesis",
+      "description": "Kaito Genesis is the genesis NFT collection created by Kaito AI.",
+      "image_url": "https://ipfs.io/ipfs/bafybeighrivve6b64yokxj6txt26nqjjxmqpmaqvx45h6srxdjpyf4icom",
+      "display_image_url": "https://i.seadn.io/s/raw/files/8a0d280b8d33fef2cf20b9d1080a1adc.png?w=500&auto=format",
+      "display_animation_url": null,
+      "metadata_url": "https://ipfs.io/ipfs/bafkreidbdxf5ixjrugswqpwpadje66nz575jzfmv57s6gsge6j7ru44zry",
+      "opensea_url": "https://opensea.io/assets/ethereum/0x9830b32f7210f0857a859c2a86387e4d1bb760b8/1168",
+      "updated_at": "2024-12-31T09:39:13.841759",
+      "is_disabled": false,
+      "is_nsfw": false
+    },
+    "quantity": 1,
+    "seller": "0x61c4a9107de33e75ed6fe29550ae2cc29ced2264",
+    "buyer": "0x946a07bcfe49569a439ea16f914999cfe22a3ca2",
+    "payment": {
+      "quantity": "3500000000000000000",
+      "token_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "decimals": 18,
+      "symbol": "WETH"
+    },
+    "transaction": "0xd9f1b35f2546cb5715206e3287909c64f6a255e1fff649a939b41dec4a08cc8e",
+    "event_timestamp": 1735637951
+  }
+]
