@@ -1,0 +1,318 @@
+[
+  {
+    "user_address": "0xe5e83c2347be43eb917715c7385ae2a2cf95453c",
+    "id": "0xe5e83c2347be43eb917715c7385ae2a2cf95453c",
+    "wallet_distribution": 2068.8631743154847,
+    "chain_distribution": {
+      "arbitrum": 334.36038301125484,
+      "base": 1322.7761766055482,
+      "ethereum": 411.72661469868166
+    }
+  },
+  {
+    "user_address": "0xe922a0bc44210f97aa6a38fe1ad7f6b8d3b23dec",
+    "id": "0xe922a0bc44210f97aa6a38fe1ad7f6b8d3b23dec",
+    "wallet_distribution": 951.5800410349616,
+    "chain_distribution": {
+      "arbitrum": 0.0260857176892082,
+      "base": 342.2763916034314,
+      "ethereum": 609.277563713841
+    }
+  },
+  {
+    "user_address": "0x96ef7cf2f781579aa499e9e04f6f1ce6244149ac",
+    "id": "0x96ef7cf2f781579aa499e9e04f6f1ce6244149ac",
+    "wallet_distribution": 1509080.8631351402,
+    "chain_distribution": {
+      "arbitrum": 1211.3445446640505,
+      "base": 652.2721093253052,
+      "ethereum": 1507217.2114831188,
+      "optimism": 0.03499803203314088
+    }
+  },
+  {
+    "user_address": "0x0871deb34bfd2052b1c10dc4f6c0912a2a47e927",
+    "id": "0x0871deb34bfd2052b1c10dc4f6c0912a2a47e927",
+    "wallet_distribution": 35425.069943531314,
+    "chain_distribution": {
+      "arbitrum": 190.15139916490028,
+      "base": 19481.1919339832,
+      "binance-smart-chain": 35.21178093695289,
+      "blast": 498.6929273238744,
+      "celo": 0,
+      "ethereum": 15177.738716657483,
+      "polygon": 9.70877961598174,
+      "polygon-zkevm": 32.374405848934124
+    }
+  },
+  {
+    "user_address": "0x512e3eb472d53df71db0252cb8dccd25cd05e9e9",
+    "id": "0x512e3eb472d53df71db0252cb8dccd25cd05e9e9",
+    "wallet_distribution": 2601.1102498430505,
+    "chain_distribution": {
+      "arbitrum": 117.35276109883094,
+      "aurora": 78.28175655788009,
+      "avalanche": 7.316464747979735,
+      "base": 765.4912711951281,
+      "binance-smart-chain": 133.82153913395462,
+      "celo": 0,
+      "ethereum": 1419.3684791761614,
+      "fantom": 59.59695708733671,
+      "optimism": 12.883385922203113,
+      "polygon": 6.997634923575806
+    }
+  },
+  {
+    "user_address": "0xb8da19f218a93d430c7eb167785e2afc5a43c7d3",
+    "id": "0xb8da19f218a93d430c7eb167785e2afc5a43c7d3",
+    "wallet_distribution": 26069.35261925034,
+    "chain_distribution": {
+      "base": 25172.399382510048,
+      "ethereum": 896.9532367402967
+    }
+  },
+  {
+    "user_address": "0xa65ce1d604fa901c13aa29f2126a57d9032e412b",
+    "id": "0xa65ce1d604fa901c13aa29f2126a57d9032e412b",
+    "wallet_distribution": 233009.02721150563,
+    "chain_distribution": {
+      "arbitrum": 1608.2882090886915,
+      "avalanche": 0.006744609341124375,
+      "base": 4988.969359560288,
+      "binance-smart-chain": 689.6575720844805,
+      "blast": 1.1118939327403206,
+      "ethereum": 225719.80776073528,
+      "scroll": 1.1856714948068658
+    }
+  },
+  {
+    "user_address": "0x75d415edcb3c3782e5952470821e983f9053a209",
+    "id": "0x75d415edcb3c3782e5952470821e983f9053a209",
+    "wallet_distribution": 453053.98501555517,
+    "chain_distribution": {
+      "arbitrum": 95976.75224251799,
+      "avalanche": 149.5125750655814,
+      "base": 337570.85854698933,
+      "binance-smart-chain": 87.65465319108375,
+      "celo": 0,
+      "ethereum": 11348.594495569034,
+      "fantom": 0.22123158874814444,
+      "optimism": 0.1184107137444,
+      "polygon": 10.076733771587161,
+      "zksync-era": 0.13646898682178002,
+      "zora": 81.56002276437253
+    }
+  },
+  {
+    "user_address": "0xe6c4f3f937b961e621d021d9d9e7deadeac9c934",
+    "id": "0xe6c4f3f937b961e621d021d9d9e7deadeac9c934",
+    "wallet_distribution": 268783.77349895006,
+    "chain_distribution": {
+      "arbitrum": 54.28798847277111,
+      "base": 195134.61435747717,
+      "binance-smart-chain": 0.0008895456368195416,
+      "blast": 0,
+      "ethereum": 73594.87026345453
+    }
+  },
+  {
+    "user_address": "0x9b864dde6ed1c21608b1665a0ac0faa4f7e36e6e",
+    "id": "0x9b864dde6ed1c21608b1665a0ac0faa4f7e36e6e",
+    "wallet_distribution": 67097.97453263725,
+    "chain_distribution": {
+      "arbitrum": 68.99188613440572,
+      "base": 475.5204038702634,
+      "binance-smart-chain": 8.509658449199646,
+      "blast": 3.1579782228890987,
+      "ethereum": 44128.971746545874,
+      "optimism": 66.5186774949716,
+      "polygon": 22329.176599179416,
+      "scroll": 5.867165531994306,
+      "xdai": 0.13227697323126433,
+      "zksync-era": 11.128140234989631
+    }
+  },
+  {
+    "user_address": "0x88bf5a2e82510847e5dcbf33f44a9f611f1c1df5",
+    "id": "0x88bf5a2e82510847e5dcbf33f44a9f611f1c1df5",
+    "wallet_distribution": 265308.51944858895,
+    "chain_distribution": {
+      "arbitrum": 264456.28799458593,
+      "aurora": 16.6839145556065,
+      "avalanche": 35.40423534418778,
+      "base": 103.8811163607672,
+      "binance-smart-chain": 9.270661002419201,
+      "blast": 29.554679687624528,
+      "celo": 0,
+      "degen": 0.0030720748597089405,
+      "ethereum": 582.8108705480859,
+      "fantom": 0.09780761596658791,
+      "gravity-alpha": 5.968560461897767,
+      "linea": 13.68403625519238,
+      "optimism": 14.069126845747919,
+      "polygon": 3.0378694059331584,
+      "polygon-zkevm": 0.007056270712129594,
+      "scroll": 31.201014118532637,
+      "xdai": 2.6757745249595692,
+      "zksync-era": 3.8482174304833756,
+      "zora": 0.033441500000000006
+    }
+  },
+  {
+    "user_address": "0x6b17062890bc3556bed6b8398be5adccd4d84a4e",
+    "id": "0x6b17062890bc3556bed6b8398be5adccd4d84a4e",
+    "wallet_distribution": 540.8698984331695,
+    "chain_distribution": {
+      "ethereum": 540.8698984331695
+    }
+  },
+  {
+    "user_address": "0x9284266887ab43b6fb088aa0e4c6aef043bac823",
+    "id": "0x9284266887ab43b6fb088aa0e4c6aef043bac823",
+    "wallet_distribution": 606.2544596535065,
+    "chain_distribution": {
+      "ape": 0.5251161086842128,
+      "arbitrum": 195.33022598020068,
+      "base": 7.527337577324873,
+      "binance-smart-chain": 7.710172484675155,
+      "blast": 13.064595636969015,
+      "celo": 0,
+      "ethereum": 286.3507867735729,
+      "gravity-alpha": 0,
+      "linea": 2.1068144999999999e-10,
+      "optimism": 52.28000193156921,
+      "polygon": 8.244583421260808,
+      "scroll": 4.515097820434638,
+      "world": 0.14188813974434447,
+      "zksync-era": 12.441978961690562,
+      "zora": 18.122674817169166
+    }
+  },
+  {
+    "user_address": "0xcb915dca399d7c4fe92b17466571883d6fc34311",
+    "id": "0xcb915dca399d7c4fe92b17466571883d6fc34311",
+    "wallet_distribution": 1018.4234705302806,
+    "chain_distribution": {
+      "arbitrum": 15.868088896571406,
+      "base": 170.9774062854504,
+      "binance-smart-chain": 7.579833013771955,
+      "ethereum": 792.0785788426804,
+      "polygon": 31.91956349180683
+    }
+  },
+  {
+    "user_address": "0xe1412eb3a56502c5322eddf4fd6b63097fe9f08e",
+    "id": "0xe1412eb3a56502c5322eddf4fd6b63097fe9f08e",
+    "wallet_distribution": 1050.7198223156147,
+    "chain_distribution": {
+      "arbitrum": 142.16414079591397,
+      "avalanche": 27.192056913483622,
+      "base": 347.05845530641386,
+      "binance-smart-chain": 12.70587048517033,
+      "blast": 14.585274124325366,
+      "celo": 0,
+      "degen": 41.04523992810527,
+      "ethereum": 381.42175077047943,
+      "fantom": 5.095074199329647,
+      "gravity-alpha": 0,
+      "linea": 0,
+      "optimism": 20.83199091710896,
+      "polygon": 20.868711528834552,
+      "polygon-zkevm": 3.1344581629668706,
+      "scroll": 12.606604534047806,
+      "zksync-era": 21.89885386249096,
+      "zora": 0.11134078694427545
+    }
+  },
+  {
+    "user_address": "0x03739f52ab1bd514682c6e21de70e06a676920f0",
+    "id": "0x03739f52ab1bd514682c6e21de70e06a676920f0",
+    "wallet_distribution": 9804.269867233055,
+    "chain_distribution": {
+      "arbitrum": 166.433273427695,
+      "base": 22.214982523980616,
+      "binance-smart-chain": 2757.988939088564,
+      "blast": 34.13659160805115,
+      "ethereum": 6823.455848174169,
+      "polygon": 0.040232410597823606
+    }
+  },
+  {
+    "user_address": "0x36fc00f224f72abdf182f16d940e31621f583a93",
+    "id": "0x36fc00f224f72abdf182f16d940e31621f583a93",
+    "wallet_distribution": 70466.40238707457,
+    "chain_distribution": {
+      "arbitrum": 987.9191876707372,
+      "base": 0.00008020254564169679,
+      "ethereum": 66915.09014816477,
+      "optimism": 2563.392971036515
+    }
+  },
+  {
+    "user_address": "0x758e83c114e36a28ca1f31c4d2adb5ec7c04c578",
+    "id": "0x758e83c114e36a28ca1f31c4d2adb5ec7c04c578",
+    "wallet_distribution": 6240.861438921359,
+    "chain_distribution": {
+      "arbitrum": 685.179634155667,
+      "aurora": 58.33413673222008,
+      "avalanche": 284.58689708070676,
+      "base": 1270.0992196194813,
+      "binance-smart-chain": 65.35881817990342,
+      "blast": 0.0019767317990556556,
+      "celo": 0,
+      "ethereum": 3729.5885820892295,
+      "fantom": 5.443261257643342,
+      "optimism": 44.18447113132933,
+      "polygon": 38.064409495203726,
+      "xdai": 0.10019641337999999,
+      "zksync-era": 59.919836034795615
+    }
+  },
+  {
+    "user_address": "0x3e516cf3c9d4f29fae6c1324c2414dc872fc9c09",
+    "id": "0x3e516cf3c9d4f29fae6c1324c2414dc872fc9c09",
+    "wallet_distribution": 84408.1550896022,
+    "chain_distribution": {
+      "arbitrum": 94.41055138070476,
+      "avalanche": 22.323203311474014,
+      "base": 785.6358206486392,
+      "binance-smart-chain": 83.01704920202005,
+      "blast": 21.532255905556546,
+      "celo": 0,
+      "ethereum": 83382.41118363934,
+      "fantom": 15.554159029792595,
+      "optimism": 0,
+      "polygon": 3.270866484650371
+    }
+  },
+  {
+    "user_address": "0xcb4ef79a389e9ea97084d2e0f9fb5a3d83cdba19",
+    "id": "0xcb4ef79a389e9ea97084d2e0f9fb5a3d83cdba19",
+    "wallet_distribution": 10353.093629685716,
+    "chain_distribution": {
+      "ethereum": 10353.093629685716
+    }
+  },
+  {
+    "user_address": "0xee9b897b21e1ae58f4fa79504dea5bb07bd2c51a",
+    "id": "0xee9b897b21e1ae58f4fa79504dea5bb07bd2c51a",
+    "wallet_distribution": 3493.0843125087517,
+    "chain_distribution": {
+      "arbitrum": 33.03092257776468,
+      "base": 768.1678882619015,
+      "binance-smart-chain": 93.77239654487528,
+      "ethereum": 2598.113105124211
+    }
+  },
+  {
+    "user_address": "0x80cc9003fa6e43315f9196da10f0b51ce27be964",
+    "id": "0x80cc9003fa6e43315f9196da10f0b51ce27be964",
+    "wallet_distribution": 38468.182956476885,
+    "chain_distribution": {
+      "base": 18.179886410074193,
+      "binance-smart-chain": 13.20521807909123,
+      "ethereum": 38372.86423310622,
+      "fantom": 63.933618881495526
+    }
+  }
+]
