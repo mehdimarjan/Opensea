@@ -1,0 +1,42 @@
+[
+{
+  "total": {
+    "volume": 5339.9453433691115,
+    "sales": 1331,
+    "average_price": 4.011979972478671,
+    "num_owners": 918,
+    "market_cap": 10473.77104285714,
+    "floor_price": 7.2,
+    "floor_price_symbol": "ETH"
+  },
+  "intervals": [
+    {
+      "interval": "one_day",
+      "volume": 20.58,
+      "volume_diff": -21.098993,
+      "volume_change": -0.5062260627746582,
+      "sales": 3,
+      "sales_diff": -0.5,
+      "average_price": 6.859999999999999
+    },
+    {
+      "interval": "seven_day",
+      "volume": 244.38799099999997,
+      "volume_diff": -110,
+      "volume_change": -0.7642878778076321,
+      "sales": 35,
+      "sales_diff": 0,
+      "average_price": 6.982514028571428
+    },
+    {
+      "interval": "thirty_day",
+      "volume": 2578.265609889109,
+      "volume_diff": -493,
+      "volume_change": -0.06641397312199286,
+      "sales": 419,
+      "sales_diff": 0,
+      "average_price": 6.153378543888088
+    }
+  ]
+}
+]
